@@ -37,6 +37,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
  - Java Runtime Environment 9 or above
  - NodeJs 
  - A Server 
+ - A big
 
 Setps of Installation [Click Here](https://xploitwizer.com/blog/27/how-to-install-xploitspy-on-vps)
  
